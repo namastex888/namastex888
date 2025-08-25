@@ -1,6 +1,6 @@
-# Hi there, I'm Namastex 👋
+# Hi there, I'm Felipe Rosa 👋
 
-AI Engineer and founder passionate about building multi-agent systems that enhance human potential. Currently working on enterprise-grade AI solutions with intelligent routing and deployment capabilities.
+Gen AI Researcher, Architect and founder passionate about building AI systems that enhance human potential. 
 
 I believe in creating AI that elevates humanity rather than replacing it.
 
@@ -21,15 +21,10 @@ I believe in creating AI that elevates humanity rather than replacing it.
 ![](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
-## 🏗️ Featured Projects
-
-- **[Automagik Hive](https://github.com/namastexlabs/automagik-hive)** - Enterprise multi-agent AI framework with intelligent routing
-- **Multi-Agent Systems** - Production-ready enterprise boilerplates for sophisticated AI agent orchestration
-
 ## 📫 How to reach me
 
 - Website: [Namastex Labs](https://namastex.ai)
-- Email: contact@namastex.ai
+- Email: felipe@namastex.ai
 
 ---
 
