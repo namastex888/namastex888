@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E25822&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Gen+AI+Architect+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Creator+of+Genie+Agent+Framework)](https://github.com/namastexlabs)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Gen+AI+Architect+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Creator+of+Genie+Agent+Framework)](https://github.com/namastexlabs)
 
 </div>
 
@@ -27,7 +27,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
       <h3 align="center">Genie Agent Framework</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs/automagik-genie">
-          <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-e25822?style=for-the-badge&logo=robot&logoColor=white" alt="Genie"/>
+          <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-fe428e?style=for-the-badge&logo=probot&logoColor=white" alt="Genie"/>
         </a>
       </p>
       <p>
@@ -38,7 +38,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
       <h3 align="center">Namastex Labs</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs">
-          <img src="https://img.shields.io/badge/AI_Research_Lab-0E1217?style=for-the-badge&logo=github&logoColor=white" alt="Namastex Labs"/>
+          <img src="https://img.shields.io/badge/AI_Research_Lab-141321?style=for-the-badge&logo=github&logoColor=a9fef7" alt="Namastex Labs"/>
         </a>
       </p>
       <p>
@@ -54,28 +54,40 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 
 <div align="center">
 
-**AI & ML**
+**Languages**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**AI & Agents**
+
+![MCP](https://img.shields.io/badge/MCP-fe428e?style=for-the-badge&logo=moleculer&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8E75B2?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-e25822?style=for-the-badge&logo=probot&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-5A5A5A?style=for-the-badge&logo=protocols&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Backend & Data**
+**Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 **Infrastructure**
 
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
 </div>
 
@@ -84,17 +96,17 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="400"/>
 </div>
 
 ---
@@ -113,13 +125,13 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 
 ### Connect
 
-[![Website](https://img.shields.io/badge/namastex.ai-e25822?style=for-the-badge&logo=safari&logoColor=white)](https://namastex.ai)
-[![Email](https://img.shields.io/badge/felipe@namastex.ai-0E1217?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@namastex.ai)
+[![Website](https://img.shields.io/badge/namastex.ai-fe428e?style=for-the-badge&logo=safari&logoColor=white)](https://namastex.ai)
+[![Email](https://img.shields.io/badge/felipe@namastex.ai-141321?style=for-the-badge&logo=gmail&logoColor=a9fef7)](mailto:felipe@namastex.ai)
 [![GitHub](https://img.shields.io/badge/namastexlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namastexlabs)
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=namastex888&color=e25822&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=namastex888&color=fe428e&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
