@@ -23,7 +23,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">Genie Agent Framework</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs/automagik-genie">
@@ -31,10 +31,21 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
         </a>
       </p>
       <p>
-        AI orchestration framework with collectives (Code, Create), spells (reusable context), and MCP-first architecture. Voice interface, persistent state, intelligent routing between specialized agents.
+        AI orchestration with collectives, spells, and MCP-first architecture. Voice interface, persistent state, intelligent routing.
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">Murmurai</h3>
+      <p align="center">
+        <a href="https://github.com/namastexlabs/murmurai">
+          <img src="https://img.shields.io/badge/Speech_Recognition-a9fef7?style=for-the-badge&logo=pytorch&logoColor=141321" alt="Murmurai"/>
+        </a>
+      </p>
+      <p>
+        GPU-powered transcription with speaker diarization. PyTorch 2.9+, Whisper, Pyannote 4.x, CUDA 12.8.
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">Namastex Labs</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs">
@@ -42,7 +53,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
         </a>
       </p>
       <p>
-        Building the infrastructure for human-AI collaboration. Open source tools, agent frameworks, and research at the intersection of LLMs and practical applications.
+        Building infrastructure for human-AI collaboration. 50+ repos, agent frameworks, ML research.
       </p>
     </td>
   </tr>
@@ -59,6 +70,14 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**ML & Speech**
+
+![PyTorch](https://img.shields.io/badge/PyTorch_2.9-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Pyannote](https://img.shields.io/badge/Pyannote-fe428e?style=for-the-badge&logo=soundcloud&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA_12.8-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **AI & Agents**
 
@@ -87,7 +106,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 
