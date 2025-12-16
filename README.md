@@ -84,17 +84,17 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark_dimmed/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark_dimmed/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark_dimmed/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark_dimmed/3-stats.svg" alt="Stats" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark_dimmed/4-productive-time.svg" alt="Productive Time" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="400"/>
+  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="400"/>
 </div>
 
 ---
