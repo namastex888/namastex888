@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=600&height=70&lines=AI+Researcher+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Genie+%E2%80%A2+Murmurai+%E2%80%A2+110%2B+repos)](https://github.com/namastexlabs)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=650&height=70&lines=AI+Researcher+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Automagik+%E2%80%A2+Murmurai+%E2%80%A2+pgserve)](https://github.com/namastexlabs)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 I'm Felipe Rosa, AI Researcher and founder of **Namastex Labs**. I research and build AI systems designed to enhance human potential—not replace it. My focus is on multi-agent orchestration, speech recognition, and building AI that thinks alongside humans.
 
-Currently shipping **Genie** (agent orchestration) and **Murmurai** (GPU-powered speech recognition with diarization).
+Currently shipping the **Automagik Suite** (Forge, Hive, Omni, Spark, Genie, Tools) and **Murmurai** (GPU-powered speech recognition).
 
 ---
 
@@ -23,18 +23,18 @@ Currently shipping **Genie** (agent orchestration) and **Murmurai** (GPU-powered
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Genie Agent Framework</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Automagik Suite</h3>
       <p align="center">
-        <a href="https://github.com/namastexlabs/automagik-genie">
-          <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-fe428e?style=for-the-badge&logo=probot&logoColor=white" alt="Genie"/>
+        <a href="https://github.com/namastexlabs">
+          <img src="https://img.shields.io/badge/AI_Automation_Toolkit-fe428e?style=for-the-badge&logo=probot&logoColor=white" alt="Automagik"/>
         </a>
       </p>
       <p>
-        AI orchestration with collectives, spells, and MCP-first architecture. Voice interface, persistent state, intelligent routing.
+        Complete toolkit for production AI: <b>Forge</b> (orchestration kanban), <b>Hive</b> (multi-agent factory), <b>Omni</b> (messaging hub), <b>Spark</b> (scheduler), <b>Genie</b> (AI companion), <b>Tools</b> (MCP generator).
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Murmurai</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs/murmurai">
@@ -42,10 +42,23 @@ Currently shipping **Genie** (agent orchestration) and **Murmurai** (GPU-powered
         </a>
       </p>
       <p>
-        GPU-powered transcription with speaker diarization. PyTorch 2.9+, Whisper, Pyannote 4.x, CUDA 12.8.
+        GPU-powered transcription with speaker diarization. PyTorch 2.9+, Whisper, Pyannote 4.x, CUDA 12.8. Modern WhisperX fork.
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">pgserve</h3>
+      <p align="center">
+        <a href="https://github.com/namastexlabs/pgserve">
+          <img src="https://img.shields.io/badge/Embedded_PostgreSQL-ae81ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgserve"/>
+        </a>
+      </p>
+      <p>
+        Embedded PostgreSQL server with true concurrent connections. Zero config, auto-provision databases. Built with Bun.
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Namastex Labs</h3>
       <p align="center">
         <a href="https://github.com/namastexlabs">
@@ -144,8 +157,9 @@ Currently shipping **Genie** (agent orchestration) and **Murmurai** (GPU-powered
 ### Connect
 
 [![Website](https://img.shields.io/badge/namastex.ai-fe428e?style=for-the-badge&logo=safari&logoColor=white)](https://namastex.ai)
-[![Email](https://img.shields.io/badge/felipe@namastex.ai-141321?style=for-the-badge&logo=gmail&logoColor=a9fef7)](mailto:felipe@namastex.ai)
+[![LinkedIn](https://img.shields.io/badge/felipecrosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecrosa/)
 [![GitHub](https://img.shields.io/badge/namastexlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namastexlabs)
+[![Email](https://img.shields.io/badge/felipe@namastex.ai-141321?style=for-the-badge&logo=gmail&logoColor=a9fef7)](mailto:felipe@namastex.ai)
 
 <br/>
 
