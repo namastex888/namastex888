@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Gen+AI+Architect+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Creator+of+Genie+Agent+Framework)](https://github.com/namastexlabs)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=600&height=70&lines=AI+Researcher+%7C+CEO+%40+Namastex+Labs;Building+AI+that+elevates+humanity;Genie+%E2%80%A2+Murmurai+%E2%80%A2+110%2B+repos)](https://github.com/namastexlabs)
 
 </div>
 
@@ -13,9 +13,9 @@
 
 ### About Me
 
-I'm Felipe Rosa, founder of **Namastex Labs**. I architect AI systems designed to enhance human potential—not replace it. My focus is on multi-agent orchestration, agentic workflows, and building AI that thinks alongside humans.
+I'm Felipe Rosa, AI Researcher and founder of **Namastex Labs**. I research and build AI systems designed to enhance human potential—not replace it. My focus is on multi-agent orchestration, speech recognition, and building AI that thinks alongside humans.
 
-Currently shipping the **Genie Agent Framework**: an AI orchestration system with collectives, spells, and persistent context that makes agents actually useful.
+Currently shipping **Genie** (agent orchestration) and **Murmurai** (GPU-powered speech recognition with diarization).
 
 ---
 
@@ -53,7 +53,7 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
         </a>
       </p>
       <p>
-        Building infrastructure for human-AI collaboration. 50+ repos, agent frameworks, ML research.
+        Building infrastructure for human-AI collaboration. 110+ repos, 11 engineers, shipping daily.
       </p>
     </td>
   </tr>
@@ -101,10 +101,11 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
-**Infrastructure**
+**Runtime & Infra**
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
@@ -112,25 +113,23 @@ Currently shipping the **Genie Agent Framework**: an AI orchestration system wit
 
 ---
 
-### GitHub Stats
+### Namastex Labs Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+
+[![Namastex Labs](https://img.shields.io/badge/🔬_Namastex_Labs-110+_repos-fe428e?style=for-the-badge&labelColor=141321)](https://github.com/namastexlabs)
+[![Team](https://img.shields.io/badge/👥_Team-11_engineers-a9fef7?style=for-the-badge&labelColor=141321)](https://github.com/orgs/namastexlabs/people)
+[![Commits](https://img.shields.io/badge/📊_2024--2025-10k+_commits-ae81ff?style=for-the-badge&labelColor=141321)](https://github.com/namastexlabs)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="400"/>
-  <img src="https://raw.githubusercontent.com/namastex888/namastex888/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="400"/>
+  <i>Most of my work lives at <a href="https://github.com/namastexlabs">github.com/namastexlabs</a></i>
 </div>
 
 ---
 
-### Contribution Graph
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namastex888/namastex888/output/github-snake-dark.svg" />
