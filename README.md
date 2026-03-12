@@ -12,7 +12,7 @@ One rule: don't get attached to code. Modern LLMs made our most popular tool obs
 
 🐙 [**Omni**](https://github.com/automagik-dev/omni) — Universal omnichannel for AI agents. Our approach to OpenClaw without reaching for someone else's solution.
 
-🗄️ [**pgserve**](https://github.com/namastexlabs/pgserve) — Embedded PostgreSQL 17. Faster than Postgres itself (4,167 vs 1,667 qps). pgvector built-in. `npx pgserve`. Vibecoders don't need Supabase.
+🗄️ [**pgserve**](https://github.com/namastexlabs/pgserve) — Embedded PostgreSQL 18. Faster than Postgres itself (4,167 vs 1,667 qps). pgvector built-in. `npx pgserve`. Vibecoders don't need Supabase.
 
 🎙️ [**Murmurai**](https://github.com/namastexlabs/murmurai) — Drop-in replacement for paid transcription APIs. Self-hosted, GPU-powered, speaker diarization. Free forever. `uvx murmurai`
 
