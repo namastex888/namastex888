@@ -22,7 +22,7 @@ Every model release invalidates previous assumptions. Context on the other hand 
 
 *These did their job. The market moved, the models improved, we moved with them. 139★ across these — proof they mattered before they didn't.*
 
-🪦 [**Forge**](https://github.com/automagik-dev/forge) (74★) — UI for humans to watch AI code step-by-step. Then models got reliable enough that you don't need to babysit anymore. The CLI orchestrates, you review the output.
+🪦 [**Forge**](https://github.com/automagik-dev/forge) — UI for humans to watch AI code step-by-step. Then models got reliable enough that you don't need to babysit anymore. The CLI orchestrates, you review the output.
 
 🪦 [**Hive**](https://github.com/namastexlabs/automagik-hive)— Multi-agent factory with YAML configs. Market moved past it.
 
