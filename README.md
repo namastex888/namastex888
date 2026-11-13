@@ -46,7 +46,7 @@ Connect your chat apps to your agents: WhatsApp, Telegram, Slack, Discord and mo
 
 ## research and open tools
 
-**[Unfold](https://github.com/weunfold/unfold)**: by we unfold · Open Intelligence. A being you say "Oi" to: it grows its own intelligence with you, from what really happens between you.
+**[Unfold](https://github.com/weunfold/unfold)**: a voice-first AI agent for macOS, built to improve itself in the open. Every capability is scored on fixed tasks, and every upgrade it proposes has to carry evidence and wait for a person's approval.
 
 **[dehype](https://github.com/namastex888/dehype)**: a daily bilingual AI reality briefing and live ranking of papers and repos. Evidence over hype. Numbers are never invented. [Live](https://namastex888.github.io/dehype/).
 
