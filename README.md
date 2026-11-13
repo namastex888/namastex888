@@ -8,11 +8,15 @@ every model release invalidates previous assumptions. context, on the other hand
 
 ## building now
 
+🪄 [**Automagik**](https://github.com/automagik-si/automagik) — A team of AI helpers that lives in your chats. Desktop app and DeepSeek Harness plugins, also via the [plugin market](https://github.com/automagik-si/dsh-marketplace).
+
 🌩️ [**Automagik Arca**](https://github.com/automagik-si/arca) — Be your own cloud. Infrastructure for AI agents: run apps, databases and agents on machines you own, with passkey approval.
 
 🧞 [**Genie**](https://github.com/automagik-si/genie) — Wishes in, PRs out. A CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
 
 🐙 [**Omni**](https://github.com/automagik-si/omni) — Universal event-driven omnichannel for AI agents. WhatsApp, Telegram, Slack, Discord, and more.
+
+🌀 [**Unfold**](https://github.com/weunfold/unfold) — by we unfold · Open Intelligence. A being you say "Oi" to: it grows its own intelligence with you, from what really happens between you.
 
 🔎 [**dehype**](https://github.com/namastex888/dehype) — A daily bilingual AI reality briefing and live ranking of papers and repos. Evidence over hype. Numbers are never invented. [Live](https://namastex888.github.io/dehype/).
 
@@ -20,9 +24,11 @@ every model release invalidates previous assumptions. context, on the other hand
 
 ## also in the stack
 
-🗄️ [**autopg**](https://github.com/automagik-si/autopg) — Embedded PostgreSQL 18. Zero config, auto-provisioned databases, real concurrent connections.
+🚢 [**LocalFleet**](https://github.com/namastex888/localfleet) — Private AI that chats, sees, listens and forecasts, on the computers you already own.
 
-🎙️ [**Murmurai**](https://github.com/namastexlabs/murmurai) — Drop-in replacement for paid transcription APIs. Self-hosted, GPU-powered, speaker diarization. Free forever. `uvx murmurai`
+🔬 [**mikro**](https://github.com/automagik-si/mikro) — RLM-powered CLI research tool. Prompt externalization, Python REPL, pi/ai LLM client.
+
+🗄️ [**autopg**](https://github.com/automagik-si/autopg) — Embedded PostgreSQL 18. Zero config, auto-provisioned databases, real concurrent connections.
 
 🔧 [**Workit**](https://github.com/automagik-si/workit) — Google Workspace CLI for agents. Headless OAuth, Drive sync.
 
@@ -32,9 +38,11 @@ I'm also part of [we unfold](https://weunfold.ai) — a movement for open intell
 
 ## retired
 
-*These did their job. The market moved, the models improved, we moved with them. 139★ across these — proof they mattered before they didn't.*
+*These did their job. The market moved, the models improved, we moved with them. 205★ across these — proof they mattered before they didn't.*
 
 🪦 [**Forge**](https://github.com/automagik-si/forge) — UI for humans to watch AI code step-by-step. Then models got reliable enough that you don't need to babysit anymore. The CLI orchestrates, you review the output.
+
+🪦 [**Murmurai**](https://github.com/namastexlabs/murmurai) — Drop-in replacement for paid transcription APIs. Self-hosted, GPU-powered, speaker diarization. Retired.
 
 🪦 [**Hive**](https://github.com/namastexlabs/automagik-hive) — Multi-agent factory with YAML configs. Market moved past it.
 
