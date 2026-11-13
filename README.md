@@ -8,29 +8,37 @@ every model release invalidates previous assumptions. context, on the other hand
 
 ## building now
 
-🪄 [**Automagik**](https://github.com/automagik-si/automagik) — A team of AI helpers that lives in your chats. Desktop app and DeepSeek Harness plugins, also via the [plugin market](https://github.com/automagik-si/dsh-marketplace).
+<a href="https://github.com/automagik-si/automagik"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/automagik-night.svg"><img src="assets/logos/automagik-day.svg" alt="Automagik" height="34"></picture></a>
 
-🌩️ [**Automagik Arca**](https://github.com/automagik-si/arca) — Be your own cloud. Infrastructure for AI agents: run apps, databases and agents on machines you own, with passkey approval.
+A team of AI helpers that lives in your chats. Desktop app and DeepSeek Harness plugins, also via the [plugin market](https://github.com/automagik-si/dsh-marketplace).
 
-🧞 [**Genie**](https://github.com/automagik-si/genie) — Wishes in, PRs out. A CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
+<a href="https://github.com/automagik-si/arca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/arca-night.svg"><img src="assets/logos/arca-day.svg" alt="Arca" height="34"></picture></a>
 
-🐙 [**Omni**](https://github.com/automagik-si/omni) — Universal event-driven omnichannel for AI agents. WhatsApp, Telegram, Slack, Discord, and more.
+Be your own cloud. Infrastructure for AI agents: run apps, databases and agents on machines you own, with passkey approval.
 
-🌀 [**Unfold**](https://github.com/weunfold/unfold) — by we unfold · Open Intelligence. A being you say "Oi" to: it grows its own intelligence with you, from what really happens between you.
+<a href="https://github.com/automagik-si/genie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/genie-night.svg"><img src="assets/logos/genie-day.svg" alt="Genie" height="34"></picture></a>
 
-🔎 [**dehype**](https://github.com/namastex888/dehype) — A daily bilingual AI reality briefing and live ranking of papers and repos. Evidence over hype. Numbers are never invented. [Live](https://namastex888.github.io/dehype/).
+Wishes in, PRs out. A CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
 
-📊 [**worthit**](https://github.com/namastex888/worthit) — What an AI coding subscription is really worth. One local command, priced at API list rates, for Claude Code, Codex and Antigravity. `npx worthit`
+<a href="https://github.com/automagik-si/omni"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/omni-night.svg"><img src="assets/logos/omni-day.svg" alt="Omni" height="34"></picture></a>
+
+Universal event-driven omnichannel for AI agents. WhatsApp, Telegram, Slack, Discord, and more.
+
+[**Unfold**](https://github.com/weunfold/unfold) — by we unfold · Open Intelligence. A being you say "Oi" to: it grows its own intelligence with you, from what really happens between you.
+
+[**dehype**](https://github.com/namastex888/dehype) — A daily bilingual AI reality briefing and live ranking of papers and repos. Evidence over hype. Numbers are never invented. [Live](https://namastex888.github.io/dehype/).
+
+[**worthit**](https://github.com/namastex888/worthit) — What an AI coding subscription is really worth. One local command, priced at API list rates, for Claude Code, Codex and Antigravity. `npx worthit`
 
 ## also in the stack
 
-🚢 [**LocalFleet**](https://github.com/namastex888/localfleet) — Private AI that chats, sees, listens and forecasts, on the computers you already own.
+[**LocalFleet**](https://github.com/namastex888/localfleet) — Private AI that chats, sees, listens and forecasts, on the computers you already own.
 
-🔬 [**mikro**](https://github.com/automagik-si/mikro) — RLM-powered CLI research tool. Prompt externalization, Python REPL, pi/ai LLM client.
+[**mikro**](https://github.com/automagik-si/mikro) — RLM-powered CLI research tool. Prompt externalization, Python REPL, pi/ai LLM client.
 
-🗄️ [**autopg**](https://github.com/automagik-si/autopg) — Embedded PostgreSQL 18. Zero config, auto-provisioned databases, real concurrent connections.
+[**autopg**](https://github.com/automagik-si/autopg) — Embedded PostgreSQL 18. Zero config, auto-provisioned databases, real concurrent connections.
 
-🔧 [**Workit**](https://github.com/automagik-si/workit) — Google Workspace CLI for agents. Headless OAuth, Drive sync.
+[**Workit**](https://github.com/automagik-si/workit) — Google Workspace CLI for agents. Headless OAuth, Drive sync.
 
 The rest of the family lives in [automagik-si](https://github.com/automagik-si). Docs: [docs.automagik.dev](https://docs.automagik.dev).
 
@@ -40,17 +48,17 @@ I'm also part of [we unfold](https://weunfold.ai) — a movement for open intell
 
 *These did their job. The market moved, the models improved, we moved with them. 205★ across these — proof they mattered before they didn't.*
 
-🪦 [**Forge**](https://github.com/automagik-si/forge) — UI for humans to watch AI code step-by-step. Then models got reliable enough that you don't need to babysit anymore. The CLI orchestrates, you review the output.
+[**Forge**](https://github.com/automagik-si/forge) — UI for humans to watch AI code step-by-step. Then models got reliable enough that you don't need to babysit anymore. The CLI orchestrates, you review the output.
 
-🪦 [**Murmurai**](https://github.com/namastexlabs/murmurai) — Drop-in replacement for paid transcription APIs. Self-hosted, GPU-powered, speaker diarization. Retired.
+[**Murmurai**](https://github.com/namastexlabs/murmurai) — Drop-in replacement for paid transcription APIs. Self-hosted, GPU-powered, speaker diarization. Retired.
 
-🪦 [**Hive**](https://github.com/namastexlabs/automagik-hive) — Multi-agent factory with YAML configs. Market moved past it.
+[**Hive**](https://github.com/namastexlabs/automagik-hive) — Multi-agent factory with YAML configs. Market moved past it.
 
-🪦 [**Spark**](https://github.com/namastexlabs/automagik-spark) — AI agents that work while you sleep. Market evolved faster than we did.
+[**Spark**](https://github.com/namastexlabs/automagik-spark) — AI agents that work while you sleep. Market evolved faster than we did.
 
-🪦 [**Tools**](https://github.com/namastexlabs/automagik-tools) — API to MCP in 30 seconds. Then CLI-first made MCP unnecessary.
+[**Tools**](https://github.com/namastexlabs/automagik-tools) — API to MCP in 30 seconds. Then CLI-first made MCP unnecessary.
 
-🪦 [**Automagik CLI**](https://github.com/namastexlabs/automagik-cli) — The old chat CLI. Genie replaced it.
+[**Automagik CLI**](https://github.com/namastexlabs/automagik-cli) — The old chat CLI. Genie replaced it.
 
 ---
 
