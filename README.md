@@ -46,7 +46,7 @@ Connect your chat apps to your agents: WhatsApp, Telegram, Slack, Discord and mo
 
 ## research and open tools
 
-**[Unfold](https://github.com/weunfold/unfold)**: a voice-first AI agent for macOS, built to improve itself in the open. Every capability is scored on fixed tasks, and every upgrade it proposes has to carry evidence and wait for a person's approval.
+**[Unfold](https://github.com/weunfold/unfold)**: a voice-first agent for macOS and the testbed for RTH, a real-time harness. One always-on daemon runs several models side by side (a fast local opener, a router that sets the thinking budget, a hosted or local reply model), stops the moment you talk over it, and logs every step to a readable Mind stream. Each capability is scored on fixed tasks; self-improvement is still being built.
 
 **[dehype](https://github.com/namastex888/dehype)**: a daily bilingual AI reality briefing and live ranking of papers and repos. Evidence over hype. Numbers are never invented. [Live](https://namastex888.github.io/dehype/).
 
